@@ -1,4 +1,7 @@
 Role-Based Access Control (RBAC) User Interface
+
+Deployed_URL : https://role-base-access-control-admin-dashboard-iq9s.vercel.app/
+
 This project implements a Role-Based Access Control (RBAC) system using Next.js and Tailwind CSS, providing an intuitive user interface to manage users, roles, and permissions dynamically.
 
 Features
@@ -20,9 +23,11 @@ Tech Stack
 Frontend: Next.js, Tailwind CSS
 State Management: Context API or Redux (depending on project requirements)
 Mock API: JSON Server or custom simulation logic
+
+
+
+
 Getting Started
-Prerequisites
-Ensure you have the following installed on your system:
 
 npm 
 Installation
